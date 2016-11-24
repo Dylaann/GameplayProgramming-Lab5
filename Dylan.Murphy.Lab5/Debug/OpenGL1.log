@@ -1,0 +1,9 @@
+﻿  Game.cpp
+g:\gameplayprogramming-lab3\dylan.murphy.lab3\game.cpp(63): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+g:\gameplayprogramming-lab3\dylan.murphy.lab3\game.cpp(66): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+g:\gameplayprogramming-lab3\dylan.murphy.lab3\game.cpp(69): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Main.cpp
+  OpenGL1.vcxproj -> G:\GameplayProgramming-Lab3\Dylan.Murphy.Lab3\Debug\OpenGL1.exe
+  OpenGL1.vcxproj -> G:\GameplayProgramming-Lab3\Dylan.Murphy.Lab3\Debug\OpenGL1.pdb (Partial PDB)
